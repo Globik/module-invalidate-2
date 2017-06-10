@@ -5,7 +5,7 @@ No need to write the flag `module.envalidable = true`.
 
 [![NPM version](http://img.shields.io/npm/v/module-invalidate-2.svg?style=flat)](https://npmjs.org/package/module-invalidate-2) 
 [![NPM Downloads](https://img.shields.io/npm/dm/module-invalidate-2.svg?style=flat)](https://npmjs.org/package/module-invalidate-2)
-===================
+
 # module-invalidate-2
 Invalidate node.js modules loaded through `require()`
 
@@ -313,7 +313,9 @@ child.foo = 2;
 ...
 
 ```
+# Projects
 
+`module-invalidate-2` works in the module [hotreloader](https://github.com/Globik/hotreloader)
 
 ## Credits
 
