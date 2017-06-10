@@ -26,7 +26,7 @@ Invalidate node.js modules loaded through `require()`
 
 ###### module `./myModule.js`
 ```JavaScript
-// ~~module.invalidable = true;~~
+// module.invalidable = true;
 
 var count = 0;
 exports.count = function() {
