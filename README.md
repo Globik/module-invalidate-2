@@ -3,6 +3,8 @@ Invalidate node.js modules loaded through require()
 It's a fork from [module-invalidate](https://github.com/FranckFreiburger/module-invalidate)
 No need to write the flag `module.envalidable = true`.
 
+# Please stop to use this module. It's buggy. It breakes modules at running process of downloading!!!!
+
 [![NPM version](http://img.shields.io/npm/v/module-invalidate-2.svg?style=flat)](https://npmjs.org/package/module-invalidate-2) 
 [![NPM Downloads](https://img.shields.io/npm/dm/module-invalidate-2.svg?style=flat)](https://npmjs.org/package/module-invalidate-2)
 
